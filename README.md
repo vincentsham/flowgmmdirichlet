@@ -11,3 +11,7 @@ The dot and circle correspond to the mean and std of GMM components. During trai
   <li>The GMM components are also followed the latent outputs to move to the middle.</li>
   <li>At step 300, GMM components and latent outputs start to move away from the middle to create 5 clusters.</li>
 </ul>
+
+### Pinwheels (learning rate of GMM and Dir = 1e-2 and 1e-3)
+<img src="pinwheels_1e-2_0.gif" width="60%" height="60%">
+<img src="pinwheels_1e-3_0.gif" width="60%" height="60%">
