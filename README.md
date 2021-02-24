@@ -31,3 +31,7 @@ The 'x's represent the latent space output of training data. The dot and circle 
     <img src="pinwheels_flowgmm_trainable_0.gif" width="45%" height="45%">
     <img src="pinwheels_flowgmm_0.gif" width="45%" height="45%">
 </p>
+
+<ul>
+  <li>A major artifact is that FlowGMM tries to merge two orange clusters together while the gap in between has some blue points.</li>
+</ul>
