@@ -21,7 +21,7 @@ The 'x's represent the latent space output of training data. The dot and circle 
 </p>
 
 <ul>
-  <li>Both GMM components have very little moment. At the begining, they follow the latent outputs to move toward center a bit. Then, they move apart from the center slowly.</li>
+  <li>Both GMM components have very little moment. At the begining, they follow the latent outputs to move toward center a bit. Then, they move away from the center slowly.</li>
   <li>Most GMM components slowly disappear as the model learns to discard them.</li>
   <li>With lr=1e-3, the colors of GMM components are not very sharp. I think it would turn the color sharper with more training epochs</li>
 </ul>
