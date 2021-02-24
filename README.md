@@ -4,4 +4,4 @@ The visualizations are captured the latent space of training data at training st
 
 The dot and circle correspond to the mean and std of GMM components. During training, the GMM components either disappear or turn from grey to the assigned class color. 
 
-<img src="pinwheels_1e-1_0.gif" width="40%" height="50%">
+<img src="pinwheels_1e-1_0.gif" width="80%" height="80%">
