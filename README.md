@@ -70,5 +70,5 @@ The 'x's represent the latent space output of training data. The dot and circle 
 </p>
 
 <ul>
-  <li>A major artifact is that FlowGMM tries to merge two orange clusters together while the gap in between has some blue points.</li>
+  <li>FlowGMM performs well in this case. The model just needs to focus on moving the latent outputs toward two clusters.</li>
 </ul>
