@@ -17,8 +17,14 @@ The 'x's represent the latent space output of training data. The dot and circle 
 </ul>
 
 <p float="left">
-    <img src="pinwheels_1e-2_0.gif" width="40%" height="40%" >
-    <img src="pinwheels_1e-3_0.gif" width="40%" height="40%" >
+  <figure>
+    <img src="pinwheels_1e-1_0.gif" width="50%" height="50%">
+    <figcaption> Pinwheels (learning rate of GMM and Dir = 1e-1) </figcaption>
+  </figure>
+  <figure>
+    <img src="pinwheels_1e-1_0.gif" width="50%" height="50%">
+    <figcaption> Pinwheels (learning rate of GMM and Dir = 1e-1) </figcaption>
+  </figure>
 </p>
 
 
