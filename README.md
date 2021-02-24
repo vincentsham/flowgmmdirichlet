@@ -6,3 +6,9 @@ The dot and circle correspond to the mean and std of GMM components. During trai
 
 ### Pinwheels (learning rate of GMM and Dir = 1e-1)
 <img src="pinwheels_1e-1_0.gif" width="60%" height="60%">
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
