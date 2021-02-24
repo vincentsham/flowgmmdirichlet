@@ -49,7 +49,7 @@ The 'x's represent the latent space output of training data. The dot and circle 
 
 <ul>
   <li>The topologies of top left, top right and bottom left are totally different. The top left, top right and bottom left converges to 3, 2, 4 clusters, respectively.</li>
-  <li>The bottom right seems to have some issues, which few of the orange data are in the bottom blue cluster.</li>
+  <li>The bottom right seems to have an issue, which few of the orange data are in the bottom blue cluster. Training with more epochs may mitigate the issue.</li>
 </ul>
 
 #### FlowGMMDirichlet (20 clusters, learning rate of GMM and Dir = 1e-2 (left) and 1e-3 (right))
