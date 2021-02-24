@@ -19,5 +19,9 @@ The 'x's represent the latent space output of training data. The dot and circle 
     <img src="pinwheels_1e-3_0.gif" width="45%" height="45%">
 </p>
 
-
+<ul>
+  <li>Both GMM components have very little moment.</li>
+  <li>Most GMM components slowly disappear as the model learns to discard them.</li>
+  <li>With lr=1e-3, the colors of GMM components are not very sharp. I think it would turn the color sharper with more training epochs</li>
+</ul>
 
