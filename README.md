@@ -14,7 +14,7 @@ The 'x's represent the latent space output of training data. The dot and circle 
   <li>At step 300, GMM components and latent outputs start to move away from the middle to create 5 clusters.</li>
 </ul>
 
-#### FlowGMMDirichlet (20 clusters,learning rate of GMM and Dir = 1e-2 (left) and 1e-3 (right))
+#### FlowGMMDirichlet (20 clusters, learning rate of GMM and Dir = 1e-2 (left) and 1e-3 (right))
 <p float="left">
     <img src="pinwheels_1e-2_0.gif" width="45%" height="45%">
     <img src="pinwheels_1e-3_0.gif" width="45%" height="45%">
@@ -26,3 +26,8 @@ The 'x's represent the latent space output of training data. The dot and circle 
   <li>With lr=1e-3, the colors of GMM components are not very sharp. I think it would turn the color sharper with more training epochs</li>
 </ul>
 
+#### FlowGMM (prior trainable (left) and non-trainable (right))
+<p float="left">
+    <img src="pinwheels_flowgmm_trainable_0.gif" width="45%" height="45%">
+    <img src="pinwheels_flowgmm_0.gif" width="45%" height="45%">
+</p>
