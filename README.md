@@ -72,3 +72,5 @@ The 'x's represent the latent space output of training data. The dot and circle 
 <ul>
   <li>FlowGMM performs well in this case. The model just needs to focus on moving the latent outputs toward two clusters.</li>
 </ul>
+
+In general, FlowGMMDirichlet seems harder to train based on the visualization. I may examine whether training with more epochs can improve the performance further.
