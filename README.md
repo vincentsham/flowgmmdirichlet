@@ -16,16 +16,12 @@ The 'x's represent the latent space output of training data. The dot and circle 
   <li>At step 300, GMM components and latent outputs start to move away from the middle to create 5 clusters.</li>
 </ul>
 
-<figure style='content: "";clear: both;display: table;'>
-    <figure style='content: "";clear: both;display: table;float:left;'>
+<p float="left">
     <img src="pinwheels_1e-2_0.gif" width="40%" height="40%" >
     <figcaption> Pinwheels (learning rate of GMM and Dir = 1e-2) </figcaption>
-    </figure>
-    <figure style='content: "";clear: both;display: table;float:left;'>
     <img src="pinwheels_1e-3_0.gif" width="40%" height="40%" >
     <figcaption> Pinwheels (learning rate of GMM and Dir = 1e-3) </figcaption>
-    </figure>
-</figure>
+</p>
 
 
 
